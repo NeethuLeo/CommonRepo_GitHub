@@ -3,3 +3,9 @@ This is first line of the file
 second line addedd tag2
 
 3rd tag
+
+4th line
+
+5th line
+
+6th line
